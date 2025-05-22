@@ -1,0 +1,14 @@
+kurigram==2.1.35
+tgCrypto
+asyncio
+ffmpeg-python
+humanize
+google-generativeai
+gTTS
+elevenlabs
+Pillow
+soundfile
+numpy
+aiohttp
+spotdl
+aiohttp-cors
