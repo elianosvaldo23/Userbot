@@ -1,8 +1,8 @@
 NAME = "Osvaldo20032"
-API_ID = 27375585  # <- Como entero
+API_ID = 27375585
 API_HASH = "0ae062b98d97012486668bfa312f5db1"
 OWNER = "Osvaldo20032"
-OWNER_ID = 1742433244  # <- Como entero, a menos que tu código requiera lista
+OWNER_ID = [1742433244]  # Changed to a list
 TARGET_CHANNEL = -1002688892136
 LOG_CHANNEL = -1002688892136
 VERSION = '0.1.2'
